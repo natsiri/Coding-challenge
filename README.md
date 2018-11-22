@@ -1,41 +1,17 @@
-# A starter project for React/Redux
+External API for lease data 
+https://hiring-task-api.herokuapp.com/v1/leases/:id 
 
-> A minimalistic React/Redux starter project
 
-To use:
 
-* Fork this repo
-* Rename your repo according to the app you're building
 
-```sh
-git clone https://github.com/[your-org]/[your-app].git
-cd [your-app] && yarn
-```
-
-This is the structure of this boilerplate:
-
-```sh
-.
-├── client
-│   ├── actions
-│   │   └── index.js
-│   ├── components
-│   │   ├── AddWord.jsx
-│   │   ├── App.jsx
-│   │   ├── Word.jsx
-│   │   └── Words.jsx
-│   ├── reducers
-│   │   ├── index.js
-│   │   └── words.js
-│   └── index.js
-├── public
-│   ├── index.html
-│   └── main.css
-├── server
-│   ├── index.js
-│   └── server.js
-├── .gitignore
-├── package.json
-├── README.md
-└── webpack.config.js
-```
+1. Code readability
+2. Code maintainability
+3. Documentation
+4. Testability
+5. Automated tests
+6. Overall architecture
+7. Unhappy paths vs happy paths
+8. Security
+9. Scalability
+10. Reusability of the code
+11. The simplicity of the solution
